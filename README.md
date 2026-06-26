@@ -1,2 +1,2 @@
-# messanger-max
+# messenger-max
 Проект мессенджера в консоли для себя
